@@ -20,8 +20,5 @@ module.exports = {
         "react",
         "@typescript-eslint"
     ],
-    "scripts": {
-        "lint": "npx eslint --cache --fix ./"
-    },
     "rules": {}
 }
